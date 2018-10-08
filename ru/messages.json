@@ -1,0 +1,441 @@
+{
+
+  "extensionDescription": {
+    "message": "Добавляет универсальный и настраиваемый проигрыватель (Universal Custom Player) на все сайты.",
+    "description": "Описание расширения."
+  },
+  
+  "POPUP_MENU": { "message": "(extension) (do not translate this line)" },
+  
+  "report_a_bug" : {
+    "message": "Сообщить об ошибке"
+  },
+  "help_and_list_of_changes" : {
+    "message": "Помощь | Список изменений"
+  },
+  "donate_to_us" : {
+    "message": "Внести пожертвование"
+  },
+  "control_panel" : {
+    "message": "Панель управления"
+  },
+  
+  "MAIN_MENU": { "message": "(of player) (do not translate this line)" },
+  
+  "recommended_links" : {
+    "message": "Рекомендуемые"
+  },
+  "other_links" : {
+    "message": "Другие"
+  },
+  "advanced_actions" : {
+    "message": "Дополнительные действия"
+  },
+  "search_links_in_all_page_texts" : {
+    "message": "Искать ссылки во всех текстовых частях текущей страницы"
+  },
+  "scan_also_texts" : {
+    "message": "Искать также в текстах"
+  },
+  "size" : {
+    "message": "размер"
+  },
+  "trying" : {
+    "message": "узнаём"
+  },
+  
+  "PLAYER_MAIN": { "message": "(Player Playback part) (do not translate this line)" },
+  
+  "restart_current_video_in_player" : {
+    "message": "Перезапустить текущее видео в Проигрывателе"
+  },
+  "toggle_fullscreen_mode" : {
+    "message": "Переключить полноЭкранный режим"
+  },
+  "not_in_the_buffered_range_0br0_Try_another_timecode" : {
+    "message": "За границей буфера,$br$ Попробуйте другой таймкод",
+	"placeholders": {
+      "br": {
+        "content": "$1"
+      }
+	}
+  },
+  "loading" : {
+    "message": "Загрузка"
+  },
+  
+  "PLAYER_SIZES": { "message": "(Player changable sizes part) (do not translate this line)" },
+  
+  "minimize" : {
+    "message": "Свернуть"
+  },
+  "close" : {
+    "message": "Закрыть"
+  },
+  "resize_player" : {
+    "message": "Изменить размер Проигрывателя"
+  },
+  "resize_player_to_browser_s_window_sizes" : {
+    "message": "Растянуть Проигрыватель до размеров окна браузера"
+  },
+  
+  "_HEADER": { "message": "(header of service extension page) (do not translate this line)" },
+  
+  "options" : {
+    "message": "Настройки"
+  },
+  "support_us" : {
+    "message": "Поддержать нас"
+  },
+  "help" : {
+    "message": "Помощь"
+  },
+  "contacts" : {
+    "message": "Контакты"
+  },
+  "license_agreement" : {
+    "message": "Лицензионное соглашение"
+  },
+  
+  "DOWNLOAD": { "message": "(service extension page) (do not translate this line)" },
+  
+  "download_page" : {
+    "message": "Страница загрузки"
+  },
+  "trying_to_download" : {
+    "message": "Пробуем загрузить"
+  },
+  
+  "OPTIONS": { "message": "(service extension page) (left menu) (do not translate this line)" },
+  
+  "general" : {
+    "message": "Основное"
+  },
+  "websites" : {
+    "message": "Сайты"
+  },
+  "search" : {
+    "message": "Поиск"
+  },
+  "visual" : {
+    "message": "Графика"
+  },
+  "playback" : {
+    "message": "Воспроизведение"
+  },
+  "apply_changes" : {
+    "message": "Сохранить изменения"
+  },
+  "changes_saved_but_for_apply_changes_tabs_with_activated_player_menu_need_to_be_reload_reload_them_automatically" : {
+    "message": "Изменения сохранены! Но для их вступления в силу необходима перезагрузка вкладок, в которых активировано Дополнение. Перезагрузить их автоматически?"
+  },
+  
+  "OPTIONS": { "message": "(service extension page) (content part) (do not translate this line)" },
+  
+  "language" : {
+    "message": "Язык"
+  },
+  "player_autoload" : {
+    "message": "Автозагрузка Проигрывателя"
+  },
+  "player_automatically_loads_into_the_reloaded_tabs_in_which_it_was_previously_included_until_the_tab_or_browser_won_t_be_closed" : {
+    "message": "проигрыватель автоматически загружаться во вкладку после её перезагрузки, в которую он уже был ранее включен, пока конкретная вкладка или браузер не будут закрыты"
+  },
+  "player_autoload_in_subtabs" : {
+    "message": "Автозагрузка Проигрывателя в дочерние вкладки"
+  },
+  "player_automatically_loads_into_the_tabs_which_have_been_opened_by_tabs_in_which_player_was_previously_included_until_the_tab_or_browser_won_t_be_closed_it_works_for_the_tabs_opened_only_in_a_same_window" : {
+    "message": "проигрыватель будет автоматически загружаться во вкладку, которая была открыта вкладкой с активным Проигрывателем, пока конкретная вкладка или браузер не будут закрыты"
+  },
+  "video_formats_to_search" : {
+    "message": "Поиск по видео форматам:"
+  },
+  "only_format_names_with_spaces" : {
+    "message": "только имена форматов с пробелами"
+  },
+  "popular_formats" : {
+    "message": "Популярные форматы"
+  },
+  "note_too_many_formats_can_affect_performance" : {
+    "message": "Внимание: слишком большое количество форматов может сказаться на производительности"
+  },
+  "continuous_search_in_texts" : {
+    "message": "Непрерывный Поиск в Текстах"
+  },
+  "when_pressing_the_scan_also_texts_button_in_the_advanced_actions_menu_tab_of_player_search_in_texts_will_be_continuous_until_the_browser_s_tab_won_t_be_closed_reloaded_otherwise_search_will_be_carried_out_only_1_time_per_click" : {
+    "message": "при нажатии на кнопку 'Искать также в текстах' в разделе 'Дополнительные действия' меню Проигрывателя, поиск будет проходить непрерывно, пока снова не будет нажата данная кнопка или не будут перезагружены/закрыты вкладка или браузер. В ином случае поиск будет произведен 1 раз за клик по кнопке"
+  },
+  "search_file_size_automatically" : {
+    "message": "Поиск размера файла (автоматически)"
+  },
+  "after_finding_the_media_link_1_time_will_automatically_search_for_the_size_of_its_file_you_also_can_press_the_size_button_in_recommended_other_links_links_section_in_the_menu_for_this" : {
+    "message": "после нахождения ссылки для воспроизведения, 1 раз автоматически осуществляется поиск размера её файла. Вы также можете нажать на синюю правую часть ссылки (кнопка 'размер') в разделе 'Рекомендуемых'/'Других' ссылок в меню Проигрывателя для этого"
+  },
+  "note_if_websites_have_often_begun_to_block_access_to_their_pages_or_have_begun_to_suggest_to_pass_a_kaptcha_try_to_uncheck_this_parameter" : {
+    "message": "Внимание: Если сайт начнет блокировать доступ к своим страницам или начнет давать запрос на прохождение капчи, попробуйте отключить данный параметр"
+  },
+  "non_hover_quick_play_button_opacity" : {
+    "message": "Непрозрачность Кнопок быстрого воспроизведения"
+  },
+  "opacity_of_the_green_buttons_above_the_video_elements_on_the_site_buttons_for_the_quick_start_playing_when_the_cursor_is_not_over" : {
+    "message": "непрозрачность зеленых кнопок для быстрого воспроизведения, находящихся над левым верхним углом каждого из видео на сайте, когда курсор не над данными кнопками"
+  },
+  "for_player" : {
+    "message": "для Проигрывателя"
+  },
+  "non_hover_control_panel_opacity" : {
+    "message": "Непрозрачность панели управления видео"
+  },
+  "opacity_of_the_player_s_video_control_panel_when_the_cursor_is_not_over_the_panel" : {
+    "message": "непрозрачность панели управления видео в Проигрывателе, когда курсор не над панелью"
+  },
+  "it_isn_t_recommended_to_set_the_value_equal_to_0" : {
+    "message": "Не рекомендуется задавать значение, равное нулю"
+  },
+  "general_shadow" : {
+    "message": "Основная тень"
+  },
+  "set_range_parameter_equal_to_0_to_disable_shadow" : {
+    "message": "задайте параметр 'радиус' равным нулю для отключения тени"
+  },
+  "range" : {
+    "message": "радиус"
+  },
+  "intensity" : {
+    "message": "интенсивность"
+  },
+  "color" : {
+    "message": "цвет"
+  },
+  "width_100_px" : {
+    "message": "ширина=100px"
+  },
+  "side_player_spaces_on_start" : {
+    "message": "Боковые отступы при старте"
+  },
+  "side_spaces_from_edges_of_the_browser_when_video_start_to_be_played" : {
+    "message": "боковые отступы от краев браузера для Проигрывателя, когда видео начинает воспроизводиться"
+  },
+  "bottom_buttons_height" : {
+    "message": "Высота Нижних кнопок"
+  },
+  "height_of_minimize_and_close_buttons_on_the_bottom_of_the_player_set_value_lower_than_20_to_hide_the_buttons" : {
+    "message": "высота кнопок 'Свернуть' и 'Закрыть' (внизу Проигрывателя). Задайте значение, меньше чем 20, для скрытия кнопок"
+  },
+  "bottom_buttons_color_background" : {
+    "message": "Цвет Нижних кнопок (фон)"
+  },
+  "normal" : {
+    "message": "стандарт"
+  },
+  "hover" : {
+    "message": "при наведении"
+  },
+  "background_color_of_minimize_and_close_buttons_on_the_bottom_of_the_player" : {
+    "message": "фоновый цвет кнопок 'Свернуть' и 'Закрыть' (внизу Проигрывателя)"
+  },
+  "bottom_buttons_color_text" : {
+    "message": "Цвет Нижних кнопок (текст)"
+  },
+  "text_color_of_minimize_and_close_buttons_on_the_bottom_of_the_player" : {
+    "message": "цвет текста кнопок 'Свернуть' и 'Закрыть' (внизу Проигрывателя)"
+  },
+  "play_pause_button_color_background" : {
+    "message": "Цвет кнопки Старт/Пауза (фон)"
+  },
+  "background_color_of_play_pause_button_on_the_bottom_left_corner_of_the_player" : {
+    "message": " фоновый цвет кнопки 'Старт/Пауза' (в нижнем левом углу Проигрывателя)"
+  },
+  "volume_bar_colors" : {
+    "message": "Цвет звуковой шкалы"
+  },
+  "front" : {
+    "message": "передний"
+  },
+  "background" : {
+    "message": "фоновый"
+  },
+  "colors_of_player_s_volume_bar_on_the_bottom_left_corner_of_the_player" : {
+    "message": "цвета ползунка, регулирующего громкость (в нижней левой части Проигрывателя)"
+  },
+  "progress_bar_colors" : {
+    "message": "Цвета Прогресс бара"
+  },
+  "colors_of_player_s_progress_bar_on_the_bottom_of_the_player" : {
+    "message": "цвета Прогресс бара Проигрывателя (внизу Проигрывателя)"
+  },
+  "buffered_ranges_color" : {
+    "message": "Цвет Буферизированных участков"
+  },
+  "the_parts_on_the_top_of_progress_bar_on_the_bottom_of_the_player" : {
+    "message": "полоски в верхней части Проигресс бара, находящегося внизу Проигрывателя"
+  },
+  "progress_bar_tip_color" : {
+    "message": "Цвет Конца Прогресс бара"
+  },
+  "the_brighter_vertical_stripe_on_the_right_side_of_progress_bar_s_front_part_of_the_player" : {
+    "message": "более яркая вертикальная полоска справа на передней части Прогресс бара"
+  },
+  "recommended_to_set_very_light_color_for_the_best_visibility_in_all_cases" : {
+    "message": "Рекомендуется задавать данный цвет ярким для лучшей видимости во многих ситуациях"
+  },
+  "level_of_hiding_of_hover_elements" : {
+    "message": "Уровень скрытия наплывающих элементов"
+  },
+  "if_during_video_playback_you_see_elements_which_block_viewing_try_to_increase_this_parameter_helps_only_in_certain_cases" : {
+    "message": "если во время воспроизведения видео вы видите посторонние элементы сверху Проигрывателя, попробуйте увеличить данный параметр. Помогает в редких случаях"
+  },
+  "when_double_clicking_on_player" : {
+    "message": "Действие Двойного клика мышью"
+  },
+  "toggle_full_screen_mode" : {
+    "message": "Переключение ПолноЭкранного режима"
+  },
+  "toggle_full_window_mode" : {
+    "message": "Переключение ПолноОконного режима"
+  },
+  "to_do_nothing" : {
+    "message": "Ничего не делать"
+  },
+  "pause_the_video_when_player_is_minimized" : {
+    "message": "Приостанавливать видео при сворачивании"
+  },
+  "hide_player_s_control_panel_with_cursor_timeout" : {
+    "message": "Задержка скрытия панели управления с курсором"
+  },
+  "_1_sec_1000_msec_period_of_idle_time_of_the_cursor_over_the_player_while_playing_video_later_which_the_control_panel_and_the_cursor_will_be_hidden" : {
+    "message": "(1 сек = 1000 мсек) период времени простоя курсора над Проигрывателем во время воспроизведения видео, после которого панель управления роликом и курсор будут скрыты"
+  },
+  "cursor_swipe_actions_distance" : {
+    "message": "Дистанция Свайпа курсором"
+  },
+  "distance_which_the_cursor_needs_to_overcome_with_the_pressed_mouse_botton_so_that_appropriate_actions_are_taken" : {
+    "message": "дистанция, которую необходимо преодолеть курсором с зажатой кнопкой мыши, чтобы совершилось соответствующее действие"
+  },
+  "examples_1_swipe_over_the_player_with_pressed_left_mouse_button_lmb_from_right_to_left_will_turn_on_the_minimize_player_mode" : {
+    "message": "Примеры: 1) Свайп над Проигрывателем с зажатой Левой кнопкой мыши в Левую сторону Свернет Проигрыватель"
+  },
+  "_2_swipe_over_the_player_with_pressed_left_mouse_button_lmb_from_left_to_right_will_close_the_player" : {
+    "message": "2) Свайп над Проигрывателем с зажатой Левой кнопкой мыши в Правую сторону Закроет Проигрыватель"
+  },
+  "inner_bottom_areas_of_video_s_rewind" : {
+    "message": "Размер Внутренней Нижней области Прокрутки видео"
+  },
+  "width" : {
+    "message": "ширина"
+  },
+  "height" : {
+    "message": "высота"
+  },
+  "of_player_width" : {
+    "message": "от ширины Проигрывателя"
+  },
+  "of_player_height" : {
+    "message": "от высоты Проигрывателя"
+  },
+  "these_are_internal_bottom_areas_that_rewind_the_video_for_a_minimum_amount_of_time_if_you_right_click_on_them_changing_the_parameters_of_these_areas_will_change_all_other_sizes_of_areas_like_these" : {
+    "message": "Это Нижние внутренние области, которые осуществляют промотку видео на минимальный промежуток времени при клике по ним Правой кнопкой мыши. Изменение этих параметров в результате изменит и размеры других областей Прокрутки"
+  },
+  "rewinding_areas_time_values" : {
+    "message": "Временные значения Областей прокрутки"
+  },
+  "triggered_by_right_clicking" : {
+    "message": "активируются Прав. кн. мыши"
+  },
+  "top_outer_left_area" : {
+    "message": "Верхняя Внешняя Левая область"
+  },
+  "top_inner_left_area" : {
+    "message": "Верхняя Внутр. Левая область"
+  },
+  "top_inner_right_area" : {
+    "message": "Верхняя Внутр. Правая область"
+  },
+  "top_outer_right_area" : {
+    "message": "Верхняя Внешняя Правая область"
+  },
+  "bottom_outer_left_area" : {
+    "message": "Нижняя Внешняя Левая область"
+  },
+  "bottom_inner_left_area" : {
+    "message": "Нижняя Внутр. Левая область"
+  },
+  "bottom_inner_right_area" : {
+    "message": "Нижняя Внутр. Правая область"
+  },
+  "bottom_outer_right_area" : {
+    "message": "Нижняя Внешняя Правая область"
+  },
+  "Top_sections_make_Force0info0_rewind_for_playing_video_Bottom_sections_make_Soft0help0_rewind0br0_Soft_rewind_time_size_of_this_rewind_depends_on_buffered_ranges_of_playing_video_unlike_to_the_Force_rewind" : {
+    "message": "'Верхние' области осуществляют Принудительную$info$ прокрутку видео, 'Нижние' области - Мягкую$info$ прокрутку.$br$ Мягкая прокрутка - размер прокрутки зависит от буферизированных участков проигрываемого видео, в отличие от Принудительной прокрутки",
+	"placeholders": {
+      "info": {
+        "content": "$1"
+      },
+	  "br": {
+        "content": "$2"
+      }
+	}
+  },
+  "click_here_for_more_information" : {
+    "message": "нажмите здесь для получения полной информации"
+  },
+  "Rewinding_Keys_time_values" : {
+    "message": "Временные значения Прокрутки для Клавиш"
+  },
+  "triggered_by_pressing_keys" : {
+    "message": "активируются клавишами клавиатуры"
+  },
+  "key" : {
+    "message": "клавиша"
+  },
+  "rewinding_mode" : {
+    "message": "режим прокрутки"
+  },
+  "Force" : {
+    "message": "Принудительный"
+  },
+  "Soft" : {
+    "message": "Мягкий"
+  },
+  "Soft_rewind_time_size_of_this_rewind_depends_on_buffered_ranges_of_playing_video_unlike_to_the_Force_rewind" : {
+    "message": "Мягкая прокрутка - размер прокрутки зависит от буферизированных участков проигрываемого видео, в отличие от Принудительной прокрутки"
+  },
+  "Mouse_scrolling_for_change_volume" : {
+    "message": "Колесо мыши для изменения громкости"
+  },
+  "Sensitivity" : {
+    "message": "Чувствительность"
+  },
+  "Reverse" : {
+    "message": "Инверсия"
+  },
+  "You_can_change_the_volume_of_video_by_mouse_scrolling_when_your_cursor_is_over_the_player" : {
+    "message": "Вы можете изменять громкость видео, прокручивая колесо мыши, когда курсор находится над Проигрывателем"
+  },
+  
+  "COLOR_PICKER": { "message": "(options page part) (do not translate this line)" },
+  
+  "Cancel" : {
+    "message": "Отмена"
+  },
+  "Ok" : {
+    "message": "Принять"
+  },
+  "Old" : {
+    "message": "Прежний"
+  },
+  "Red" : {
+    "message": "Красн"
+  },
+  "Green" : {
+    "message": "Зел"
+  },
+  "Blue" : {
+    "message": "Синий"
+  },
+  "New" : {
+    "message": "Новый"
+  }
+  
+}

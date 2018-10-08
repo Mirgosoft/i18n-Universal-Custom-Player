@@ -1,0 +1,441 @@
+{
+
+  "extensionDescription": {
+    "message": "Add universal custom player to any website.",
+    "description": "Description of the extension."
+  },
+  
+  "POPUP_MENU": { "message": "(extension) (do not translate this line)" },
+  
+  "report_a_bug" : {
+    "message": "Report a bug"
+  },
+  "help_and_list_of_changes" : {
+    "message": "Help | List of changes"
+  },
+  "donate_to_us" : {
+    "message": "Donate to us"
+  },
+  "control_panel" : {
+    "message": "Control Panel"
+  },
+  
+  "MAIN_MENU": { "message": "(of player) (do not translate this line)" },
+  
+  "recommended_links" : {
+    "message": "Recommended"
+  },
+  "other_links" : {
+    "message": "Other links"
+  },
+  "advanced_actions" : {
+    "message": "Advanced actions"
+  },
+  "search_links_in_all_page_texts" : {
+    "message": "Search links in all page texts"
+  },
+  "scan_also_texts" : {
+    "message": "Scan also Texts"
+  },
+  "size" : {
+    "message": "size"
+  },
+  "trying" : {
+    "message": "trying"
+  },
+  
+  "PLAYER_MAIN": { "message": "(Player Playback part) (do not translate this line)" },
+  
+  "restart_current_video_in_player" : {
+    "message": "Restart current video in player"
+  },
+  "toggle_fullscreen_mode" : {
+    "message": "Toggle fullscreen mode"
+  },
+  "not_in_the_buffered_range_0br0_Try_another_timecode" : {
+    "message": "Not in the buffered range,$br$ Try another timecode",
+	"placeholders": {
+      "br": {
+        "content": "$1"
+      }
+	}
+  },
+  "loading" : {
+    "message": "Loading"
+  },
+  
+  "PLAYER_SIZES": { "message": "(Player changable sizes part) (do not translate this line)" },
+  
+  "minimize" : {
+    "message": "Minimize"
+  },
+  "close" : {
+    "message": "Close"
+  },
+  "resize_player" : {
+    "message": "Resize player"
+  },
+  "resize_player_to_browser_s_window_sizes" : {
+    "message": "Resize player to browser's window sizes"
+  },
+  
+  "_HEADER": { "message": "(header of service extension page) (do not translate this line)" },
+  
+  "options" : {
+    "message": "Options"
+  },
+  "support_us" : {
+    "message": "Support us"
+  },
+  "help" : {
+    "message": "Help"
+  },
+  "contacts" : {
+    "message": "Contacts"
+  },
+  "license_agreement" : {
+    "message": "License Agreement"
+  },
+  
+  "DOWNLOAD": { "message": "(service extension page) (do not translate this line)" },
+  
+  "download_page" : {
+    "message": "Download page"
+  },
+  "trying_to_download" : {
+    "message": "Trying to Download"
+  },
+  
+  "OPTIONS": { "message": "(service extension page) (left menu) (do not translate this line)" },
+  
+  "general" : {
+    "message": "General"
+  },
+  "websites" : {
+    "message": "WebSites"
+  },
+  "search" : {
+    "message": "Search"
+  },
+  "visual" : {
+    "message": "Visual"
+  },
+  "playback" : {
+    "message": "Playback"
+  },
+  "apply_changes" : {
+    "message": "Apply changes"
+  },
+  "changes_saved_but_for_apply_changes_tabs_with_activated_player_menu_need_to_be_reload_reload_them_automatically" : {
+    "message": "Changes saved! But for apply changes, tabs with activated Player menu need to be reload. Reload them automatically?"
+  },
+  
+  "OPTIONS": { "message": "(service extension page) (content part) (do not translate this line)" },
+  
+  "language" : {
+    "message": "Language"
+  },
+  "player_autoload" : {
+    "message": "Player Autoload"
+  },
+  "player_automatically_loads_into_the_reloaded_tabs_in_which_it_was_previously_included_until_the_tab_or_browser_won_t_be_closed" : {
+    "message": "player automatically loads into the reloaded tabs, in which it was previously included, until the tab or browser won't be closed"
+  },
+  "player_autoload_in_subtabs" : {
+    "message": "Player Autoload in subtabs"
+  },
+  "player_automatically_loads_into_the_tabs_which_have_been_opened_by_tabs_in_which_player_was_previously_included_until_the_tab_or_browser_won_t_be_closed_it_works_for_the_tabs_opened_only_in_a_same_window" : {
+    "message": "player automatically loads into the tabs, which have been opened by tabs, in which player was previously included, until the tab or browser won't be closed. It works for the tabs, opened only in a same window"
+  },
+  "video_formats_to_search" : {
+    "message": "Video formats to search"
+  },
+  "only_format_names_with_spaces" : {
+    "message": "only format names with spaces"
+  },
+  "popular_formats" : {
+    "message": "Popular formats"
+  },
+  "note_too_many_formats_can_affect_performance" : {
+    "message": "Note: too many formats can affect performance"
+  },
+  "continuous_search_in_texts" : {
+    "message": "Continuous Search in texts"
+  },
+  "when_pressing_the_scan_also_texts_button_in_the_advanced_actions_menu_tab_of_player_search_in_texts_will_be_continuous_until_the_browser_s_tab_won_t_be_closed_reloaded_otherwise_search_will_be_carried_out_only_1_time_per_click" : {
+    "message": "when pressing the 'Scan also Texts' button in the 'Advanced actions' menu tab of player, search in texts will be continuous, until button not pressed again or the browser's tab won't be closed/reloaded. Otherwise, search will be carried out only 1 time per click"
+  },
+  "search_file_size_automatically" : {
+    "message": "Search file size (automatically)"
+  },
+  "after_finding_the_media_link_1_time_will_automatically_search_for_the_size_of_its_file_you_also_can_press_the_size_button_in_recommended_other_links_links_section_in_the_menu_for_this" : {
+    "message": "after finding the media link 1 time will automatically search for the size of its file. You also can press the 'size' button (right blue part of link) in 'Recommended'/'Other links' links section in the Player's menu for this"
+  },
+  "note_if_websites_have_often_begun_to_block_access_to_their_pages_or_have_begun_to_suggest_to_pass_a_kaptcha_try_to_uncheck_this_parameter" : {
+    "message": "Note: If websites have often begun to block access to their pages or have begun to suggest to pass a kaptcha, try to uncheck this parameter"
+  },
+  "non_hover_quick_play_button_opacity" : {
+    "message": "Non Hover Quick play button opacity"
+  },
+  "opacity_of_the_green_buttons_above_the_video_elements_on_the_site_buttons_for_the_quick_start_playing_when_the_cursor_is_not_over" : {
+    "message": "opacity of the green buttons above the video elements on the site (buttons for the quick start playing), when the cursor is not over"
+  },
+  "for_player" : {
+    "message": "for Player"
+  },
+  "non_hover_control_panel_opacity" : {
+    "message": "Non Hover control panel opacity"
+  },
+  "opacity_of_the_player_s_video_control_panel_when_the_cursor_is_not_over_the_panel" : {
+    "message": "opacity of the player's video control panel, when the cursor is not over the panel"
+  },
+  "it_isn_t_recommended_to_set_the_value_equal_to_0" : {
+    "message": "It isn't recommended to set the value equal to '0'"
+  },
+  "general_shadow" : {
+    "message": "General shadow"
+  },
+  "set_range_parameter_equal_to_0_to_disable_shadow" : {
+    "message": "set 'range' parameter equal to '0' to disable shadow"
+  },
+  "range" : {
+    "message": "range"
+  },
+  "intensity" : {
+    "message": "intensity"
+  },
+  "color" : {
+    "message": "color"
+  },
+  "width_100_px" : {
+    "message": "width = 100 px"
+  },
+  "side_player_spaces_on_start" : {
+    "message": "Side player spaces on start"
+  },
+  "side_spaces_from_edges_of_the_browser_when_video_start_to_be_played" : {
+    "message": "side spaces from edges of the browser, when video start to be played"
+  },
+  "bottom_buttons_height" : {
+    "message": "Bottom buttons Height"
+  },
+  "height_of_minimize_and_close_buttons_on_the_bottom_of_the_player_set_value_lower_than_20_to_hide_the_buttons" : {
+    "message": "height of 'Minimize' and 'Close' buttons (on the bottom of the player). Set value lower than 20 to hide the buttons"
+  },
+  "bottom_buttons_color_background" : {
+    "message": "Bottom buttons Color (background)"
+  },
+  "normal" : {
+    "message": "normal"
+  },
+  "hover" : {
+    "message": "hover"
+  },
+  "background_color_of_minimize_and_close_buttons_on_the_bottom_of_the_player" : {
+    "message": "background color of 'Minimize' and 'Close' buttons (on the bottom of the player)"
+  },
+  "bottom_buttons_color_text" : {
+    "message": "Bottom buttons Color (text)"
+  },
+  "text_color_of_minimize_and_close_buttons_on_the_bottom_of_the_player" : {
+    "message": "text color of 'Minimize' and 'Close' buttons (on the bottom of the player)"
+  },
+  "play_pause_button_color_background" : {
+    "message": "Play/pause button Color (background)"
+  },
+  "background_color_of_play_pause_button_on_the_bottom_left_corner_of_the_player" : {
+    "message": "background color of Play/Pause button (on the bottom left corner of the player)"
+  },
+  "volume_bar_colors" : {
+    "message": "Volume bar Colors"
+  },
+  "front" : {
+    "message": "front"
+  },
+  "background" : {
+    "message": "background"
+  },
+  "colors_of_player_s_volume_bar_on_the_bottom_left_corner_of_the_player" : {
+    "message": "colors of player's Volume bar (on the bottom left corner of the player)"
+  },
+  "progress_bar_colors" : {
+    "message": "Progress bar Colors"
+  },
+  "colors_of_player_s_progress_bar_on_the_bottom_of_the_player" : {
+    "message": "colors of player's Progress bar (on the bottom of the player)"
+  },
+  "buffered_ranges_color" : {
+    "message": "Buffered ranges Color"
+  },
+  "the_parts_on_the_top_of_progress_bar_on_the_bottom_of_the_player" : {
+    "message": "the parts on the top of Progress bar on the bottom of the player"
+  },
+  "progress_bar_tip_color" : {
+    "message": "Progress bar tip Color"
+  },
+  "the_brighter_vertical_stripe_on_the_right_side_of_progress_bar_s_front_part_of_the_player" : {
+    "message": "the brighter vertical stripe on the right side of Progress bar's front part of the player"
+  },
+  "recommended_to_set_very_light_color_for_the_best_visibility_in_all_cases" : {
+    "message": "Recommended to set very light color for the best visibility in all cases"
+  },
+  "level_of_hiding_of_hover_elements" : {
+    "message": "Level of hiding of hover elements"
+  },
+  "if_during_video_playback_you_see_elements_which_block_viewing_try_to_increase_this_parameter_helps_only_in_certain_cases" : {
+    "message": "if during video playback you see elements which block viewing, try to increase this parameter. Helps only in certain cases"
+  },
+  "when_double_clicking_on_player" : {
+    "message": "When double-clicking on player"
+  },
+  "toggle_full_screen_mode" : {
+    "message": "Toggle Full-Screen mode"
+  },
+  "toggle_full_window_mode" : {
+    "message": "Toggle Full-Window mode"
+  },
+  "to_do_nothing" : {
+    "message": "To do Nothing"
+  },
+  "pause_the_video_when_player_is_minimized" : {
+    "message": "Pause the video, when player is minimized"
+  },
+  "hide_player_s_control_panel_with_cursor_timeout" : {
+    "message": "Hide player's control panel with cursor (Timeout)"
+  },
+  "_1_sec_1000_msec_period_of_idle_time_of_the_cursor_over_the_player_while_playing_video_later_which_the_control_panel_and_the_cursor_will_be_hidden" : {
+    "message": "(1 sec = 1000 msec) period of idle time of the cursor over the player, while playing video, later which the control panel and the cursor will be hidden"
+  },
+  "cursor_swipe_actions_distance" : {
+    "message": "Cursor swipe actions (Distance)"
+  },
+  "distance_which_the_cursor_needs_to_overcome_with_the_pressed_mouse_botton_so_that_appropriate_actions_are_taken" : {
+    "message": "distance, which the cursor needs to overcome with the pressed mouse botton, so that appropriate actions are taken"
+  },
+  "examples_1_swipe_over_the_player_with_pressed_left_mouse_button_lmb_from_right_to_left_will_turn_on_the_minimize_player_mode" : {
+    "message": "Examples: 1) Swipe over the player with pressed left mouse button (LMB) from Right to Left will turn on the minimize player mode"
+  },
+  "_2_swipe_over_the_player_with_pressed_left_mouse_button_lmb_from_left_to_right_will_close_the_player" : {
+    "message": "2) Swipe over the player with pressed left mouse button (LMB) from Left to Right will close the player"
+  },
+  "inner_bottom_areas_of_video_s_rewind" : {
+    "message": "Inner bottom areas of Video's rewind"
+  },
+  "width" : {
+    "message": "width"
+  },
+  "height" : {
+    "message": "height"
+  },
+  "of_player_width" : {
+    "message": "of player width"
+  },
+  "of_player_height" : {
+    "message": "of player height"
+  },
+  "these_are_internal_bottom_areas_that_rewind_the_video_for_a_minimum_amount_of_time_if_you_right_click_on_them_changing_the_parameters_of_these_areas_will_change_all_other_sizes_of_areas_like_these" : {
+    "message": "These are internal bottom areas, that rewind the video for a minimum amount of time, if you right click on them. Changing the parameters of these areas will change all other sizes of areas like these"
+  },
+  "rewinding_areas_time_values" : {
+    "message": "Rewinding Areas time values"
+  },
+  "triggered_by_right_clicking" : {
+    "message": "triggered by right-clicking"
+  },
+  "top_outer_left_area" : {
+    "message": "Top Outer Left area"
+  },
+  "top_inner_left_area" : {
+    "message": "Top Inner Left area"
+  },
+  "top_inner_right_area" : {
+    "message": "Top Inner Right area"
+  },
+  "top_outer_right_area" : {
+    "message": "Top Outer Right area"
+  },
+  "bottom_outer_left_area" : {
+    "message": "Bottom Outer Left area"
+  },
+  "bottom_inner_left_area" : {
+    "message": "Bottom Inner Left area"
+  },
+  "bottom_inner_right_area" : {
+    "message": "Bottom Inner Right area"
+  },
+  "bottom_outer_right_area" : {
+    "message": "Bottom Outer Right area"
+  },
+  "Top_sections_make_Force0info0_rewind_for_playing_video_Bottom_sections_make_Soft0help0_rewind0br0_Soft_rewind_time_size_of_this_rewind_depends_on_buffered_ranges_of_playing_video_unlike_to_the_Force_rewind" : {
+    "message": "'Top' sections make Force$info$ rewind for playing video, 'Bottom' sections make Soft$info$ rewind.$br$ Soft rewind - time size of this rewind depends on buffered ranges of playing video, unlike to the Force rewind",
+	"placeholders": {
+      "info": {
+        "content": "$1"
+      },
+	  "br": {
+        "content": "$2"
+      }
+	}
+  },
+  "click_here_for_more_information" : {
+    "message": "click here for more information"
+  },
+  "Rewinding_Keys_time_values" : {
+    "message": "Rewinding Keys time values"
+  },
+  "triggered_by_pressing_keys" : {
+    "message": "triggered by pressing keys"
+  },
+  "key" : {
+    "message": "key"
+  },
+  "rewinding_mode" : {
+    "message": "rewinding mode"
+  },
+  "Force" : {
+    "message": "Force"
+  },
+  "Soft" : {
+    "message": "Soft"
+  },
+  "Soft_rewind_time_size_of_this_rewind_depends_on_buffered_ranges_of_playing_video_unlike_to_the_Force_rewind" : {
+    "message": "Soft rewind - time size of this rewind depends on buffered ranges of playing video, unlike to the Force rewind"
+  },
+  "Mouse_scrolling_for_change_volume" : {
+    "message": "Mouse scrolling for change volume"
+  },
+  "Sensitivity" : {
+    "message": "Sensitivity"
+  },
+  "Reverse" : {
+    "message": "Reverse"
+  },
+  "You_can_change_the_volume_of_video_by_mouse_scrolling_when_your_cursor_is_over_the_player" : {
+    "message": "You can change the volume of video by mouse scrolling, when your cursor is over the player"
+  },
+  
+  "COLOR_PICKER": { "message": "(options page part) (do not translate this line)" },
+  
+  "Cancel" : {
+    "message": "Cancel"
+  },
+  "Ok" : {
+    "message": "Ok"
+  },
+  "Old" : {
+    "message": "Old"
+  },
+  "Red" : {
+    "message": "Red"
+  },
+  "Green" : {
+    "message": "Green"
+  },
+  "Blue" : {
+    "message": "Blue"
+  },
+  "New" : {
+    "message": "New"
+  }
+  
+}
