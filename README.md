@@ -5,4 +5,4 @@ Universal Custom Player's locale files
 You can get Universal Custom Player here: http://mirgosoft.com/addons/universal-custom-player/
 
 ## How to help with the translation?
-Just translate the "message" fields of the message.json file from necessary locale folder (we recommend *en* folder for translating to your language).
+Just translate the "message" lines of the message.json file from necessary locale folder (we recommend *en* folder for translating to your language).
