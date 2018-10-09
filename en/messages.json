@@ -436,6 +436,57 @@
   },
   "New" : {
     "message": "New"
+  },
+  
+  "WELCOME": { "message": "(on install addon service page) (do not translate this line)" },
+  
+  "Thank_you_for_installing_Universal_Custom_Player" : {
+    "message": "Thank you for installing Universal Custom Player"
+  },
+  "We_strongly_recommend_that_you_familiarize_yourself_with_the_brief_guide" : {
+    "message": "We strongly recommend that you familiarize yourself with the brief guide"
+  },
+  "Easy_to_Start" : {
+    "message": "Easy to Start"
+  },
+  "If_you_notice_any_addon_errors_or_need_help_email_us_on_the_0help0_page" : {
+    "message": "If you notice any add-on errors or need help, email us on the $help$ page",
+	"placeholders": {
+      "help": {
+        "content": "$1"
+      }
+	}
+  },
+  "If_you_like_Universal_Custom_Player_do_not_forget_to_share_0this_link0_with_others" : {
+    "message": "If you like Universal Custom Player, do not forget to share $this_link$ with others",
+	"placeholders": {
+      "this_link": {
+        "content": "$1"
+      }
+	}
+  },
+  "this_link" : {
+    "message": "this link"
+  },
+  "Also_you_can_always_thank_us_by_0Supporting_our_development0" : {
+    "message": "Also, you can always thank us by $Supporting_our_development$",
+	"placeholders": {
+      "Supporting_our_development": {
+        "content": "$1"
+      }
+	}
+  },
+  "Supporting_our_development" : {
+    "message": "Supporting our development"
+  },
+  "Universal_Custom_Player_successfully_Updated" : {
+    "message": "Universal Custom Player successfully Updated"
+  },
+  "You_can_read_the_latest_updates_here" : {
+    "message": "You can read the latest updates here"
+  },
+  "Latest_updates" : {
+    "message": "Latest updates"
   }
   
 }
