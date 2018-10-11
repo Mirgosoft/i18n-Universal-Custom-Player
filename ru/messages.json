@@ -130,7 +130,7 @@
     "message": "Изменения сохранены! Но для их вступления в силу необходима перезагрузка вкладок, в которых активировано Дополнение. Перезагрузить их автоматически?"
   },
   
-  "OPTIONS": { "message": "(service extension page) (content part) (do not translate this line)" },
+  "OPTIONS_JS": { "message": "(service extension page) (content part) (do not translate this line)" },
   
   "language" : {
     "message": "Язык"
