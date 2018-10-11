@@ -106,7 +106,7 @@
     "message": "Trying to Download"
   },
   
-  "OPTIONS": { "message": "(service extension page) (left menu) (do not translate this line)" },
+  "OPTIONS_JS": { "message": "(service extension page) (left menu) (do not translate this line)" },
   
   "general" : {
     "message": "General"
@@ -130,7 +130,7 @@
     "message": "Changes saved! But for apply changes, tabs with activated Player menu need to be reload. Reload them automatically?"
   },
   
-  "OPTIONS_JS": { "message": "(service extension page) (content part) (do not translate this line)" },
+  "OPTIONS_JS_2": { "message": "(service extension page) (content part) (do not translate this line)" },
   
   "language" : {
     "message": "Language"
